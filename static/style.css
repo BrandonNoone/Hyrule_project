@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header > .index_header_title{
+  background-color: red;
+}
